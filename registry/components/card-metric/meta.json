@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Card Metric",
+    "th": "การ์ดตัวชี้วัด"
+  },
+  "description": {
+    "en": "A grid of metric cards showing data stats with icons and trend indicators.",
+    "th": "กริดการ์ดตัวชี้วัดแสดงสถิติข้อมูลพร้อมไอคอนและตัวบ่งชี้แนวโน้ม"
+  },
+  "category": "card",
+  "tags": [
+    "cards",
+    "grid",
+    "metrics",
+    "dashboard"
+  ]
+}

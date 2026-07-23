@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Card Data",
+        "th": "การ์ดข้อมูล"
+    },
+    "description": {
+        "en": "A grid of data cards showing a data table with icons and status indicators.",
+        "th": "กริดการ์ดข้อมูลแสดงสถิติของเสียพร้อมไอคอนและตัวบ่งชี้สถานะ"
+    },
+    "category": "card",
+    "tags": [
+        "cards",
+        "grid",
+        "data",
+        "dashboard"
+    ]
+}

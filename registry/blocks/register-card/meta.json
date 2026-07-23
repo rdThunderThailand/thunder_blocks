@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Register Card",
+        "th": "การ์ดสมัครสมาชิก"
+    },
+    "description": {
+        "en": "A register card with email/password fields, password visibility toggle, remember-me, and social sign-in buttons.",
+        "th": "การ์ดสมัครสมาชิกพร้อมช่องอีเมล/รหัสผ่าน ปุ่มแสดงรหัสผ่าน ตัวเลือกจดจำฉัน และปุ่มเข้าสู่ระบบผ่านโซเชียล"
+    },
+    "category": "auth",
+    "tags": [
+        "register",
+        "form",
+        "auth",
+        "social sign-in"
+    ]
+}

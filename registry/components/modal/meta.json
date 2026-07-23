@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Modal",
+        "th": "หน้าต่างโมดัล"
+    },
+    "description": {
+        "en": "A confirmation dialog with overlay backdrop, escape-to-close, and OK/Cancel actions.",
+        "th": "กล่องโต้ตอบยืนยันการดำเนินการ พร้อมพื้นหลังโปร่งแสง ปิดด้วยปุ่ม Esc และปุ่มยืนยัน/ยกเลิก"
+    },
+    "category": "overlay",
+    "tags": [
+        "modal",
+        "dialog",
+        "confirmation",
+        "overlay"
+    ]
+}

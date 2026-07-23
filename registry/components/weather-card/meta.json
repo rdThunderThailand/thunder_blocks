@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en": "Weather Card",
+    "th": "การ์ดสภาพอากาศ"
+  },
+  "description": {
+    "en": "A compact weather readout with a condition icon, temperature, and humidity.",
+    "th": "การ์ดแสดงสภาพอากาศแบบกะทัดรัดพร้อมไอคอนสภาพอากาศ อุณหภูมิ และความชื้น"
+  },
+  "category": "card",
+  "tags": [
+    "weather",
+    "card",
+    "dashboard"
+  ]
+}

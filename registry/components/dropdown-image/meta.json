@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "Dropdown Image",
+        "th": "ดรอปดาวน์รูปภาพ"
+    },
+    "description": {
+        "en": "Dropdown list for selecting an option with image.",
+        "th": "รายการดรอปดาวน์สำหรับเลือกตัวเลือกพร้อมรูปภาพ"
+    },
+    "category": "forms",
+    "tags": [
+        "dropdown"
+    ]
+}

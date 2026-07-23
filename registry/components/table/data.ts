@@ -1,0 +1,48 @@
+import { HistoryRowItem } from "./component";
+
+export const defaultMockData: HistoryRowItem[] = [
+    {
+        id: '1',
+        dateTime: { date: '03 Jul 2026', time: '09:24' },
+        organicType: { primary: 'Food Waste', subText: 'Wet organic' },
+        location: { primary: 'สีลม Drop Point', subText: 'Zone A' },
+        amount: 128.5,
+        unit: 'kg',
+        management: { label: 'Completed', statusType: 'success' },
+        operator: { name: 'สมชาย ใจดี', role: 'Collector' },
+        hasDocument: true,
+    },
+    {
+        id: '2',
+        dateTime: { date: '03 Jul 2026', time: '11:02' },
+        organicType: { primary: 'Garden Waste', subText: 'Dry organic' },
+        location: { primary: 'สุขุมวิท Drop Point', subText: 'Zone B' },
+        amount: 64.0,
+        unit: 'kg',
+        management: { label: 'Processing', statusType: 'info' },
+        operator: { name: 'วราภรณ์ พงษ์', role: 'Operator' },
+        hasDocument: false,
+    },
+    {
+        id: '3',
+        dateTime: { date: '02 Jul 2026', time: '16:40' },
+        organicType: { primary: 'Food Waste', subText: 'Wet organic' },
+        location: { primary: 'บางรัก Drop Point', subText: 'Zone A' },
+        amount: 210.75,
+        unit: 'kg',
+        management: { label: 'Delayed', statusType: 'warning' },
+        operator: { name: 'อนุชา ทองดี', role: 'Collector' },
+        hasDocument: true,
+    },
+    {
+        id: '4',
+        dateTime: { date: '02 Jul 2026', time: '08:15' },
+        organicType: { primary: 'Mixed Organic', subText: 'Uncategorized' },
+        location: { primary: 'ห้วยขวาง Drop Point', subText: 'Zone C' },
+        amount: 42.3,
+        unit: 'kg',
+        management: { label: 'Rejected', statusType: 'danger' },
+        operator: { name: 'กมลชนก ศรี', role: 'Supervisor' },
+        hasDocument: false,
+    },
+];

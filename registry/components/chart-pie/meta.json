@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Pie chart",
+        "th": "กราฟวงกลม"
+    },
+    "description": {
+        "en": "A donut chart with a center total and a color-coded legend of category shares.",
+        "th": "กราฟวงแหวนแสดงยอดรวมตรงกลาง พร้อมคำอธิบายสัดส่วนแต่ละหมวดหมู่แบบไล่สี"
+    },
+    "category": "chart",
+    "tags": [
+        "chart",
+        "pie",
+        "donut",
+        "dashboard"
+    ]
+}

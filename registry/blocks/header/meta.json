@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en": "Dashboard Header",
+    "th": "ส่วนหัวแดชบอร์ด"
+  },
+  "description": {
+    "en": "App header with a live clock, current weather, and a profile dropdown menu.",
+    "th": "ส่วนหัวแอปพร้อมนาฬิกาแบบเรียลไทม์ สภาพอากาศปัจจุบัน และเมนูโปรไฟล์แบบดรอปดาวน์"
+  },
+  "category": "dashboard",
+  "tags": ["header", "navigation", "profile", "dropdown"]
+}

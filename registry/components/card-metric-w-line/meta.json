@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Card Metric with Line",
+        "th": "การ์ดตัวชี้วัดพร้อมกราฟเส้น"
+    },
+    "description": {
+        "en": "A metric card pairing a value and trend badge with an inline sparkline chart.",
+        "th": "การ์ดตัวชี้วัดแสดงค่าและป้ายแนวโน้ม พร้อมกราฟเส้นขนาดเล็กประกอบ"
+    },
+    "category": "card",
+    "tags": [
+        "metrics",
+        "chart",
+        "sparkline",
+        "dashboard"
+    ]
+}

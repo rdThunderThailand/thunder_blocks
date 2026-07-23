@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Button",
+        "th": "ปุ่ม"
+    },
+    "description": {
+        "en": "A primary action button with a built-in loading spinner state.",
+        "th": "ปุ่มสำหรับการกระทำหลักพร้อมสถานะโหลดดิ้งในตัว"
+    },
+    "category": "forms",
+    "tags": [
+        "button",
+        "forms",
+        "loading"
+    ]
+}

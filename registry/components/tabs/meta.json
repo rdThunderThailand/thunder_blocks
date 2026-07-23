@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Tabs",
+        "th": "แท็บ"
+    },
+    "description": {
+        "en": "Simple tabs for switching between different views or sections.",
+        "th": "แท็บสำหรับสลับระหว่างข้อมูลหรือเมนูต่างๆ"
+    },
+    "category": "navigation",
+    "tags": [
+        "tabs",
+        "tab",
+        "navigation",
+        "component"
+    ]
+}

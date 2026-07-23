@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Card Data Horizontal",
+        "th": "การ์ดข้อมูลแนวนอน"
+    },
+    "description": {
+        "en": "A horizontal row of icon-based data points with title, subtitle, and optional status badge.",
+        "th": "แถวข้อมูลแนวนอนแสดงไอคอนพร้อมชื่อ คำอธิบาย และป้ายสถานะ"
+    },
+    "category": "card",
+    "tags": [
+        "cards",
+        "horizontal",
+        "data",
+        "dashboard"
+    ]
+}

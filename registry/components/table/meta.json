@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Table",
+        "th": "ตารางข้อมูล"
+    },
+    "description": {
+        "en": "A history table with date, type, location, amount, status, and operator columns.",
+        "th": "ตารางประวัติแสดงวันที่ ประเภท สถานที่ ปริมาณ สถานะ และผู้ดำเนินการ"
+    },
+    "category": "dashboard",
+    "tags": [
+        "table",
+        "history",
+        "data",
+        "dashboard"
+    ]
+}

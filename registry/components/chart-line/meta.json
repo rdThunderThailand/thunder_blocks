@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Line chart",
+        "th": "กราฟเส้น"
+    },
+    "description": {
+        "en": "An area line chart with gridlines and monthly/half-yearly/yearly time-range tabs.",
+        "th": "กราฟเส้นพื้นที่พร้อมเส้นกริด และแท็บช่วงเวลารายเดือน รายครึ่งปี และรายปี"
+    },
+    "category": "chart",
+    "tags": [
+        "chart",
+        "line",
+        "trend",
+        "dashboard"
+    ]
+}

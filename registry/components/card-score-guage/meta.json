@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Card Score Gauge",
+        "th": "การ์ดมาตรวัดคะแนน"
+    },
+    "description": {
+        "en": "A semicircular gauge card showing a score out of a max value with a color-coded status band.",
+        "th": "การ์ดมาตรวัดครึ่งวงกลมแสดงคะแนนเทียบกับค่าสูงสุด พร้อมแถบสถานะแบบไล่สี"
+    },
+    "category": "card",
+    "tags": [
+        "gauge",
+        "score",
+        "chart",
+        "dashboard"
+    ]
+}

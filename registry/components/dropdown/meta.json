@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "Dropdown",
+        "th": "ดรอปดาวน์"
+    },
+    "description": {
+        "en": "Dropdown list for selecting an option.",
+        "th": "รายการดรอปดาวน์สำหรับเลือกตัวเลือก"
+    },
+    "category": "forms",
+    "tags": [
+        "dropdown"
+    ]
+}

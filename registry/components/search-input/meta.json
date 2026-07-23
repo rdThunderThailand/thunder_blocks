@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en": "Search Input",
+    "th": "ช่องค้นหา"
+  },
+  "description": {
+    "en": "A search input with autocomplete suggestions, keyboard navigation, and highlighted matches.",
+    "th": "ช่องค้นหาพร้อมคำแนะนำอัตโนมัติ การควบคุมด้วยคีย์บอร์ด และไฮไลต์ข้อความที่ตรงกัน"
+  },
+  "category": "forms",
+  "tags": ["search", "input", "autocomplete", "forms"]
+}

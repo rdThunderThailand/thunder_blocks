@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# thunderblocks
 
-## Getting Started
+Made by Pichayapa Thaisedhawatkul
 
-First, run the development server:
+A browsable, copy-paste UI gallery — not an installable package or CLI. Visitors browse **Blocks**
+(page-level sections) and **Components** (smaller reusable UI) by category, preview them live at
+desktop/tablet/mobile widths, switch to a Code tab, and copy the source straight into their own project.
+The site is bilingual (en/th) via a client-side language toggle.
+
+## Getting started
+
+Install dependencies and run the dev server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to browse the gallery.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Adding a new block or component
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Copy `registry/blocks/(slug)/` or `registry/components/(slug)/` to a new kebab-case folder matching
+   your slug. Fill in `component.tsx` (default export, self-contained rendering/data mapping), `meta.json`
+   (localized `name`/`description`, `category`), and `data.ts` if it needs sample data.
+2. Add one entry to `lib/registry.ts`: the map entry (`sourcePath`, `component`, `meta`) and the slug in
+   `blockSlugs` or `componentSlugs`.
+3. Add one entry to `registry/blocks.json` or `registry/components.json` (`slug`, `name`, `category`,
+   `description` — plain English).
+4. If it depends on another registry entry or a shared asset, import it directly
+   (`@/registry/components/<slug>/component`, `@/icons/SocialIcons`) — the code viewer picks up
+   cross-registry imports automatically. No page/route files need to change.
 
-## Learn More
+See [thunderblocks-outline.md](thunderblocks-outline.md) for the full architecture reference, a
+file-by-file breakdown, and worked examples — read it before making structural changes.
 
-To learn more about Next.js, take a look at the following resources:
+## Scripts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `npm run dev` — start the dev server
+- `npm run build` — production build
+- `npm run start` — run the production build
+- `npm run lint` — lint the codebase
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Stack
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next.js 16, React 19, Tailwind CSS 4, and Shiki for syntax highlighting in the code viewer.

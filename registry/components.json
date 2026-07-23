@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "card-metric",
+    "name": "Card Metric",
+    "category": "card",
+    "description": "A grid of metric cards showing a data stats with icons and trend indicators."
+  },
+  {
+    "slug": "card-data",
+    "name": "Card Data",
+    "category": "card",
+    "description": "A grid of data cards showing a data table with icons and status indicators."
+  },
+  {
+    "slug": "card-data-horizontal",
+    "name": "Card Data Horizontal",
+    "category": "card",
+    "description": "A horizontal row of icon-based data points with title, subtitle, and optional status badge."
+  },
+  {
+    "slug": "card-data-media",
+    "name": "Card Data Media",
+    "category": "card",
+    "description": "A grid of media thumbnails, such as CCTV feeds, with a title and live status indicator."
+  },
+  {
+    "slug": "card-greeting",
+    "name": "Card Greeting",
+    "category": "card",
+    "description": "A personalized welcome banner with an avatar, time-of-day greeting, and summary line."
+  },
+  {
+    "slug": "card-score-guage",
+    "name": "Card Score Gauge",
+    "category": "card",
+    "description": "A semicircular gauge card showing a score out of a max value with a color-coded status band."
+  },
+  {
+    "slug": "card-metric-w-line",
+    "name": "Card Metric with Line",
+    "category": "card",
+    "description": "A metric card pairing a value and trend badge with an inline sparkline chart."
+  },
+  {
+    "slug": "button",
+    "name": "Button",
+    "category": "forms",
+    "description": "A primary action button with a built-in loading spinner state."
+  },
+  {
+    "slug": "weather-card",
+    "name": "Weather Card",
+    "category": "card",
+    "description": "A compact weather readout with a condition icon, temperature, and humidity."
+  },
+  {
+    "slug": "input",
+    "name": "Input",
+    "category": "forms",
+    "description": "A styled text input with a focus ring and disabled state."
+  },
+  {
+    "slug": "search-input",
+    "name": "Search Input",
+    "category": "forms",
+    "description": "A search input with autocomplete suggestions, keyboard navigation, and highlighted matches."
+  },
+  {
+    "slug": "tabs",
+    "name": "Tabs",
+    "category": "navigation",
+    "description": "Simple tabs for switching between different views or sections."
+  },
+  {
+    "slug": "dropdown-image",
+    "name": "Dropdown Image",
+    "category": "forms",
+    "description": "Dropdown list for selecting an option with image."
+  },
+  {
+    "slug": "dropdown",
+    "name": "Dropdown",
+    "category": "forms",
+    "description": "Dropdown list for selecting an option."
+  },
+  {
+    "slug": "modal",
+    "name": "Modal",
+    "category": "overlay",
+    "description": "A confirmation dialog with overlay backdrop, escape-to-close, and OK/Cancel actions."
+  },
+  {
+    "slug": "table",
+    "name": "Table",
+    "category": "dashboard",
+    "description": "A history table with date, type, location, amount, status, and operator columns."
+  },
+  {
+    "slug": "chart-pie",
+    "name": "Pie chart",
+    "category": "chart",
+    "description": "A donut chart with a center total and a color-coded legend of category shares."
+  },
+  {
+    "slug": "chart-line",
+    "name": "Line chart",
+    "category": "chart",
+    "description": "An area line chart with gridlines and monthly/half-yearly/yearly time-range tabs."
+  },
+  {
+    "slug": "chart-bar",
+    "name": "Bar chart",
+    "category": "chart",
+    "description": "A bar chart with hover value tooltips and total, average, and peak summary stats."
+  }
+]

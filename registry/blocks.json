@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "header",
+    "name": "Dashboard Header",
+    "category": "dashboard",
+    "description": "App header with a live clock, current weather, and a profile dropdown menu."
+  },
+  {
+    "slug": "login-card",
+    "name": "Login Card",
+    "category": "auth",
+    "description": "A sign-in card with email/password fields, password visibility toggle, remember-me, and social sign-in buttons."
+  },
+  {
+    "slug": "register-card",
+    "name": "Register Card",
+    "category": "auth",
+    "description": "A register card with email/password fields, password visibility toggle, remember-me, and social sign-in buttons."
+  }
+]

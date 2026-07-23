@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Card Greeting",
+        "th": "การ์ดต้อนรับ"
+    },
+    "description": {
+        "en": "A personalized welcome banner with an avatar, time-of-day greeting, and summary line.",
+        "th": "การ์ดต้อนรับผู้ใช้แบบส่วนตัว พร้อมรูปโปรไฟล์ คำทักทายตามช่วงเวลา และข้อความสรุป"
+    },
+    "category": "card",
+    "tags": [
+        "greeting",
+        "banner",
+        "avatar",
+        "dashboard"
+    ]
+}

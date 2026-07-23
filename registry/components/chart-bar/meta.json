@@ -1,0 +1,16 @@
+{
+    "name": {
+        "en": "Bar chart",
+        "th": "กราฟแท่ง"
+    },
+    "description": {
+        "en": "A bar chart with hover value tooltips and total, average, and peak summary stats.",
+        "th": "กราฟแท่งแสดงค่าเมื่อชี้เมาส์ พร้อมสรุปยอดรวม ค่าเฉลี่ย และค่าสูงสุด"
+    },
+    "category": "chart",
+    "tags": [
+        "chart",
+        "bar",
+        "dashboard"
+    ]
+}

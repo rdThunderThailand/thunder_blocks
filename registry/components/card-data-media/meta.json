@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Card Data Media",
+        "th": "การ์ดข้อมูลสื่อ"
+    },
+    "description": {
+        "en": "A grid of media thumbnails, such as CCTV feeds, with a title and live status indicator.",
+        "th": "กริดภาพขนาดย่อของสื่อ เช่น ภาพจากกล้อง CCTV พร้อมชื่อและตัวบ่งชี้สถานะออนไลน์"
+    },
+    "category": "card",
+    "tags": [
+        "cards",
+        "media",
+        "grid",
+        "dashboard"
+    ]
+}

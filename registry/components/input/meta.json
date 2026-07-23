@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en": "Input",
+    "th": "ช่องกรอกข้อมูล"
+  },
+  "description": {
+    "en": "A styled text input with a focus ring and disabled state.",
+    "th": "ช่องกรอกข้อความพร้อมเส้นขอบเมื่อโฟกัสและสถานะปิดใช้งาน"
+  },
+  "category": "forms",
+  "tags": ["input", "forms", "text field"]
+}

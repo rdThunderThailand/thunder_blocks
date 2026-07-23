@@ -1,6 +1,5 @@
 # thunderblocks
 
-Made by Pichayapa Thaisedhawatkul
 
 A browsable, copy-paste UI gallery — not an installable package or CLI. Visitors browse **Blocks**
 (page-level sections) and **Components** (smaller reusable UI) by category, preview them live at
@@ -44,3 +43,10 @@ file-by-file breakdown, and worked examples — read it before making structural
 ## Stack
 
 Next.js 16, React 19, Tailwind CSS 4, and Shiki for syntax highlighting in the code viewer.
+
+
+
+<br>
+<br>
+
+<sub><sup> Made by Pichayapa Thaisedhawatkul </sup></sub>
